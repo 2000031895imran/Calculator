@@ -52,3 +52,6 @@ calculator-builder/
 ├── tailwind.config.js
 └── vite.config.ts
 ```# Calculator
+
+![image](https://github.com/user-attachments/assets/f3c219fd-6cae-42f2-8d23-d833fe1e14a0)
+
